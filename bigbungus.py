@@ -3,7 +3,7 @@ import json
 import time
 from random import choice
 
-TOKEN = "1115297640:AAGBHOTaM12GHRwc5YqHtjenvkbjo6edp4c"
+TOKEN = ""
 URL = "https://api.telegram.org/bot{token}/{method}"
 id_set = None
 quotes = None
