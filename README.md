@@ -1,2 +1,2 @@
 # BigChungus
-bg biog bungus
+what the hell even is this what did i make
